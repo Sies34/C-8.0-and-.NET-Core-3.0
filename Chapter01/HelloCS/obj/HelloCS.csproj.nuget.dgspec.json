@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/johan/Code/C-8.0-and-.NET-Core-3.0/C-8.0-and-.NET-Core-3.0.csproj": {}
+    "/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter01/HelloCS/HelloCS.csproj": {}
   },
   "projects": {
-    "/home/johan/Code/C-8.0-and-.NET-Core-3.0/C-8.0-and-.NET-Core-3.0.csproj": {
+    "/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter01/HelloCS/HelloCS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/johan/Code/C-8.0-and-.NET-Core-3.0/C-8.0-and-.NET-Core-3.0.csproj",
-        "projectName": "C-8.0-and-.NET-Core-3.0",
-        "projectPath": "/home/johan/Code/C-8.0-and-.NET-Core-3.0/C-8.0-and-.NET-Core-3.0.csproj",
+        "projectUniqueName": "/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter01/HelloCS/HelloCS.csproj",
+        "projectName": "HelloCS",
+        "projectPath": "/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter01/HelloCS/HelloCS.csproj",
         "packagesPath": "/home/johan/.nuget/packages/",
-        "outputPath": "/home/johan/Code/C-8.0-and-.NET-Core-3.0/obj/",
+        "outputPath": "/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter01/HelloCS/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/johan/.nuget/NuGet/NuGet.Config"

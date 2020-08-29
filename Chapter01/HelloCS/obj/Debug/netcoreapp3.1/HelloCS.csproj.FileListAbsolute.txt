@@ -1,0 +1,13 @@
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter01/HelloCS/bin/Debug/netcoreapp3.1/HelloCS
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter01/HelloCS/bin/Debug/netcoreapp3.1/HelloCS.deps.json
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter01/HelloCS/bin/Debug/netcoreapp3.1/HelloCS.runtimeconfig.json
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter01/HelloCS/bin/Debug/netcoreapp3.1/HelloCS.runtimeconfig.dev.json
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter01/HelloCS/bin/Debug/netcoreapp3.1/HelloCS.dll
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter01/HelloCS/bin/Debug/netcoreapp3.1/HelloCS.pdb
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter01/HelloCS/obj/Debug/netcoreapp3.1/HelloCS.csprojAssemblyReference.cache
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter01/HelloCS/obj/Debug/netcoreapp3.1/HelloCS.AssemblyInfoInputs.cache
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter01/HelloCS/obj/Debug/netcoreapp3.1/HelloCS.AssemblyInfo.cs
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter01/HelloCS/obj/Debug/netcoreapp3.1/HelloCS.csproj.CoreCompileInputs.cache
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter01/HelloCS/obj/Debug/netcoreapp3.1/HelloCS.dll
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter01/HelloCS/obj/Debug/netcoreapp3.1/HelloCS.pdb
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter01/HelloCS/obj/Debug/netcoreapp3.1/HelloCS.genruntimeconfig.cache
