@@ -1,0 +1,13 @@
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/bin/Debug/netcoreapp3.1/C-8.0-and-.NET-Core-3.0
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/bin/Debug/netcoreapp3.1/C-8.0-and-.NET-Core-3.0.deps.json
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/bin/Debug/netcoreapp3.1/C-8.0-and-.NET-Core-3.0.runtimeconfig.json
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/bin/Debug/netcoreapp3.1/C-8.0-and-.NET-Core-3.0.runtimeconfig.dev.json
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/bin/Debug/netcoreapp3.1/C-8.0-and-.NET-Core-3.0.dll
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/bin/Debug/netcoreapp3.1/C-8.0-and-.NET-Core-3.0.pdb
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/obj/Debug/netcoreapp3.1/C-8.0-and-.NET-Core-3.0.csprojAssemblyReference.cache
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/obj/Debug/netcoreapp3.1/C-8.0-and-.NET-Core-3.0.AssemblyInfoInputs.cache
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/obj/Debug/netcoreapp3.1/C-8.0-and-.NET-Core-3.0.AssemblyInfo.cs
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/obj/Debug/netcoreapp3.1/C-8.0-and-.NET-Core-3.0.csproj.CoreCompileInputs.cache
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/obj/Debug/netcoreapp3.1/C-8.0-and-.NET-Core-3.0.dll
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/obj/Debug/netcoreapp3.1/C-8.0-and-.NET-Core-3.0.pdb
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/obj/Debug/netcoreapp3.1/C-8.0-and-.NET-Core-3.0.genruntimeconfig.cache
