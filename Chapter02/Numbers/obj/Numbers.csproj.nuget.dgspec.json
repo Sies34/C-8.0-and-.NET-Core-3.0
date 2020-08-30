@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jkuep\\Code\\C-8.0-and-.NET-Core-3.0\\Chapter02\\Basics\\Basics.csproj": {}
+    "C:\\Users\\jkuep\\Code\\C-8.0-and-.NET-Core-3.0\\Chapter02\\Numbers\\Numbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jkuep\\Code\\C-8.0-and-.NET-Core-3.0\\Chapter02\\Basics\\Basics.csproj": {
+    "C:\\Users\\jkuep\\Code\\C-8.0-and-.NET-Core-3.0\\Chapter02\\Numbers\\Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jkuep\\Code\\C-8.0-and-.NET-Core-3.0\\Chapter02\\Basics\\Basics.csproj",
-        "projectName": "Basics",
-        "projectPath": "C:\\Users\\jkuep\\Code\\C-8.0-and-.NET-Core-3.0\\Chapter02\\Basics\\Basics.csproj",
+        "projectUniqueName": "C:\\Users\\jkuep\\Code\\C-8.0-and-.NET-Core-3.0\\Chapter02\\Numbers\\Numbers.csproj",
+        "projectName": "Numbers",
+        "projectPath": "C:\\Users\\jkuep\\Code\\C-8.0-and-.NET-Core-3.0\\Chapter02\\Numbers\\Numbers.csproj",
         "packagesPath": "C:\\Users\\jkuep\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jkuep\\Code\\C-8.0-and-.NET-Core-3.0\\Chapter02\\Basics\\obj\\",
+        "outputPath": "C:\\Users\\jkuep\\Code\\C-8.0-and-.NET-Core-3.0\\Chapter02\\Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jkuep\\AppData\\Roaming\\NuGet\\NuGet.Config",
