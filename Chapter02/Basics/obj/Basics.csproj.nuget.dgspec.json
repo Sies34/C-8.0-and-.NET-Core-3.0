@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jkuep\\Code\\C-8.0-and-.NET-Core-3.0\\Chapter01\\HelloCS\\HelloCS.csproj": {}
+    "C:\\Users\\jkuep\\Code\\C-8.0-and-.NET-Core-3.0\\Chapter02\\Basics\\Basics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jkuep\\Code\\C-8.0-and-.NET-Core-3.0\\Chapter01\\HelloCS\\HelloCS.csproj": {
+    "C:\\Users\\jkuep\\Code\\C-8.0-and-.NET-Core-3.0\\Chapter02\\Basics\\Basics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jkuep\\Code\\C-8.0-and-.NET-Core-3.0\\Chapter01\\HelloCS\\HelloCS.csproj",
-        "projectName": "HelloCS",
-        "projectPath": "C:\\Users\\jkuep\\Code\\C-8.0-and-.NET-Core-3.0\\Chapter01\\HelloCS\\HelloCS.csproj",
+        "projectUniqueName": "C:\\Users\\jkuep\\Code\\C-8.0-and-.NET-Core-3.0\\Chapter02\\Basics\\Basics.csproj",
+        "projectName": "Basics",
+        "projectPath": "C:\\Users\\jkuep\\Code\\C-8.0-and-.NET-Core-3.0\\Chapter02\\Basics\\Basics.csproj",
         "packagesPath": "C:\\Users\\jkuep\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jkuep\\Code\\C-8.0-and-.NET-Core-3.0\\Chapter01\\HelloCS\\obj\\",
+        "outputPath": "C:\\Users\\jkuep\\Code\\C-8.0-and-.NET-Core-3.0\\Chapter02\\Basics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jkuep\\AppData\\Roaming\\NuGet\\NuGet.Config"

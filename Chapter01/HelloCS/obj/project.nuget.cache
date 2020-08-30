@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KY4ctYju3DeaxY8kVG5RgqkKMPW28az3I0+6Pf0MUljY/VG9VzyQjn4djeFBXvGpuUljma3YZFMSCjYLXMBRKA==",
+  "dgSpecHash": "b5iAuE76uSbYFQ5bPQbImpvfwEHyf1BKs4DBs1MS0l29hyoGZmRQlMG9HTCbyAr8SgTZa0a/fwtJEw9pubXCQQ==",
   "success": true,
-  "projectFilePath": "/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter01/HelloCS/HelloCS.csproj",
+  "projectFilePath": "C:\\Users\\jkuep\\Code\\C-8.0-and-.NET-Core-3.0\\Chapter01\\HelloCS\\HelloCS.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
