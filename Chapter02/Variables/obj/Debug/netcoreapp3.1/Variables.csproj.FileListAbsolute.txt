@@ -1,0 +1,13 @@
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter02/Variables/bin/Debug/netcoreapp3.1/Variables
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter02/Variables/bin/Debug/netcoreapp3.1/Variables.deps.json
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter02/Variables/bin/Debug/netcoreapp3.1/Variables.runtimeconfig.json
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter02/Variables/bin/Debug/netcoreapp3.1/Variables.runtimeconfig.dev.json
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter02/Variables/bin/Debug/netcoreapp3.1/Variables.dll
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter02/Variables/bin/Debug/netcoreapp3.1/Variables.pdb
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter02/Variables/obj/Debug/netcoreapp3.1/Variables.csprojAssemblyReference.cache
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter02/Variables/obj/Debug/netcoreapp3.1/Variables.AssemblyInfoInputs.cache
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter02/Variables/obj/Debug/netcoreapp3.1/Variables.AssemblyInfo.cs
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter02/Variables/obj/Debug/netcoreapp3.1/Variables.csproj.CoreCompileInputs.cache
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter02/Variables/obj/Debug/netcoreapp3.1/Variables.dll
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter02/Variables/obj/Debug/netcoreapp3.1/Variables.pdb
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter02/Variables/obj/Debug/netcoreapp3.1/Variables.genruntimeconfig.cache
