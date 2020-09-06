@@ -1,0 +1,4 @@
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter02/Exercise02/obj/Debug/netcoreapp3.1/Exercise02.csprojAssemblyReference.cache
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter02/Exercise02/obj/Debug/netcoreapp3.1/Exercise02.AssemblyInfoInputs.cache
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter02/Exercise02/obj/Debug/netcoreapp3.1/Exercise02.AssemblyInfo.cs
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter02/Exercise02/obj/Debug/netcoreapp3.1/Exercise02.csproj.CoreCompileInputs.cache
