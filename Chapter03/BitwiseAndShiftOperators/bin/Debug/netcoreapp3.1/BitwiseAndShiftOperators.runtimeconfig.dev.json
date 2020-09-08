@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jkuep\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jkuep\\.nuget\\packages"
+    ]
+  }
+}

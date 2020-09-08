@@ -1,0 +1,13 @@
+C:\Users\jkuep\Code\C-8.0-and-.NET-Core-3.0\Chapter03\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.exe
+C:\Users\jkuep\Code\C-8.0-and-.NET-Core-3.0\Chapter03\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.deps.json
+C:\Users\jkuep\Code\C-8.0-and-.NET-Core-3.0\Chapter03\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.runtimeconfig.json
+C:\Users\jkuep\Code\C-8.0-and-.NET-Core-3.0\Chapter03\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.runtimeconfig.dev.json
+C:\Users\jkuep\Code\C-8.0-and-.NET-Core-3.0\Chapter03\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.dll
+C:\Users\jkuep\Code\C-8.0-and-.NET-Core-3.0\Chapter03\BooleanOperators\bin\Debug\netcoreapp3.1\BooleanOperators.pdb
+C:\Users\jkuep\Code\C-8.0-and-.NET-Core-3.0\Chapter03\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.csprojAssemblyReference.cache
+C:\Users\jkuep\Code\C-8.0-and-.NET-Core-3.0\Chapter03\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.AssemblyInfoInputs.cache
+C:\Users\jkuep\Code\C-8.0-and-.NET-Core-3.0\Chapter03\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.AssemblyInfo.cs
+C:\Users\jkuep\Code\C-8.0-and-.NET-Core-3.0\Chapter03\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.csproj.CoreCompileInputs.cache
+C:\Users\jkuep\Code\C-8.0-and-.NET-Core-3.0\Chapter03\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.dll
+C:\Users\jkuep\Code\C-8.0-and-.NET-Core-3.0\Chapter03\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.pdb
+C:\Users\jkuep\Code\C-8.0-and-.NET-Core-3.0\Chapter03\BooleanOperators\obj\Debug\netcoreapp3.1\BooleanOperators.genruntimeconfig.cache
