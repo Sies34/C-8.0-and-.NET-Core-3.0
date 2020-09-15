@@ -11,6 +11,12 @@
 		},
 		{
 			"path": "BitwiseAndShiftOperators"
+		},
+		{
+			"path": "SelectionStatements"
+		},
+		{
+			"path": "IterationStatements"
 		}
 	],
 	"settings": {}
