@@ -1,0 +1,13 @@
+C:\Users\jkuep\Code\C-8.0-and-.NET-Core-3.0\Chapter03\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.exe
+C:\Users\jkuep\Code\C-8.0-and-.NET-Core-3.0\Chapter03\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.deps.json
+C:\Users\jkuep\Code\C-8.0-and-.NET-Core-3.0\Chapter03\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.runtimeconfig.json
+C:\Users\jkuep\Code\C-8.0-and-.NET-Core-3.0\Chapter03\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.runtimeconfig.dev.json
+C:\Users\jkuep\Code\C-8.0-and-.NET-Core-3.0\Chapter03\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.dll
+C:\Users\jkuep\Code\C-8.0-and-.NET-Core-3.0\Chapter03\CastingConverting\bin\Debug\netcoreapp3.1\CastingConverting.pdb
+C:\Users\jkuep\Code\C-8.0-and-.NET-Core-3.0\Chapter03\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.csprojAssemblyReference.cache
+C:\Users\jkuep\Code\C-8.0-and-.NET-Core-3.0\Chapter03\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.AssemblyInfoInputs.cache
+C:\Users\jkuep\Code\C-8.0-and-.NET-Core-3.0\Chapter03\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.AssemblyInfo.cs
+C:\Users\jkuep\Code\C-8.0-and-.NET-Core-3.0\Chapter03\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.csproj.CoreCompileInputs.cache
+C:\Users\jkuep\Code\C-8.0-and-.NET-Core-3.0\Chapter03\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.dll
+C:\Users\jkuep\Code\C-8.0-and-.NET-Core-3.0\Chapter03\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.pdb
+C:\Users\jkuep\Code\C-8.0-and-.NET-Core-3.0\Chapter03\CastingConverting\obj\Debug\netcoreapp3.1\CastingConverting.genruntimeconfig.cache
