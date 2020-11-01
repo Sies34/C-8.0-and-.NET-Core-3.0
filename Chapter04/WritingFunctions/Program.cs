@@ -95,6 +95,11 @@ namespace WritingFunctions
             }
         }
 
+        /// <summary>
+        /// Pass a 32-bit integer and it will be converted into its ordianl equivalant
+        /// </summary>
+        /// <param name="number">Number is a cardinal value e.g.!-- 1, 2, 3--></param>
+        /// <returns>Number as an ordianl value e.g.!-- 1st, 2nd, 3rd, and so on.--></returns>
         static string CardinalToOrdinal(int number)
         {
             switch(number)
