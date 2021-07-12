@@ -1,0 +1,16 @@
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter04/Dumping/bin/Debug/netcoreapp3.1/Dumping
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter04/Dumping/bin/Debug/netcoreapp3.1/Dumping.deps.json
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter04/Dumping/bin/Debug/netcoreapp3.1/Dumping.runtimeconfig.json
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter04/Dumping/bin/Debug/netcoreapp3.1/Dumping.runtimeconfig.dev.json
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter04/Dumping/bin/Debug/netcoreapp3.1/Dumping.dll
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter04/Dumping/bin/Debug/netcoreapp3.1/Dumping.pdb
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter04/Dumping/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter04/Dumping/bin/Debug/netcoreapp3.1/SharpPad.dll
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter04/Dumping/obj/Debug/netcoreapp3.1/Dumping.csprojAssemblyReference.cache
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter04/Dumping/obj/Debug/netcoreapp3.1/Dumping.AssemblyInfoInputs.cache
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter04/Dumping/obj/Debug/netcoreapp3.1/Dumping.AssemblyInfo.cs
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter04/Dumping/obj/Debug/netcoreapp3.1/Dumping.csproj.CoreCompileInputs.cache
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter04/Dumping/obj/Debug/netcoreapp3.1/Dumping.csproj.CopyComplete
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter04/Dumping/obj/Debug/netcoreapp3.1/Dumping.dll
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter04/Dumping/obj/Debug/netcoreapp3.1/Dumping.pdb
+/home/johan/Code/C-8.0-and-.NET-Core-3.0/Chapter04/Dumping/obj/Debug/netcoreapp3.1/Dumping.genruntimeconfig.cache
